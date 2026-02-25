@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+myenv/
+myenvweather/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files from matplotlib / pandas
+*.png
+*.jpg
+*.pdf
+*.csv
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Never commit your API key!
+*.env
+config.py
